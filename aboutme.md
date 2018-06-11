@@ -3,11 +3,13 @@ layout: page
 title: About me
 subtitle: No Pain No Gain
 ---
-
-My name is Hiep. I like food, technology and book.
+Hello there !!!
+My name is Hiep. I like soccer, technology and book.
 
 What else do you need?
 
-### my history
+To be honest, I'm having some trouble remembering right now, so why don't we slowly share with each other as we go along.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just talk to me. We will find out along as we go.
+This is where I'm sharing about my stories, my knowledge and my viewpoints of life. If you have any sympathy between us, please do me favor just smile and give me your opinions too. 
+
+Leave me better than before you met me :)
