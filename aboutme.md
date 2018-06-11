@@ -16,6 +16,6 @@ Leave me better than you found me :).
 
 Thanks.
 
-PS: The language I use may be Vietnamese, Engish or even Japanese. I gonna use whatever I feel comfortable at the time I write,so please forgive me about that.
+PS: The language I use may be Vietnamese, Engish or even Japanese. I gonna use whatever I feel comfortable at the time I write,forgive me about that.
 
 よろしくお願いいたします。
