@@ -4,13 +4,13 @@ title: About me
 subtitle: No Pain No Gain
 ---
 Hello there !!!
-My name is Hiep. I like soccer, technology and book.
+My name is Hiep. I'm really into soccer,food and book.
 
 What else do you need?
 
-To be honest, I'm having some trouble remembering right now, so why don't we slowly share with each other as we go along.
+To be honest, I'm having some trouble remembering right now, so why don't we slowly share as we go along.
 
-This is where I'm sharing about my stories, my knowledge and my viewpoints of life. If you see any sympathy between us, please do me a favor : smile, take a sip of water and give me your opinions. 
+This is where I am going to share about my viewpoints of life. If you see any sympathy between us, please do me a favor . Smile, take a sip of water and write back to me. 
 
 Leave me better than you found me :).
 
