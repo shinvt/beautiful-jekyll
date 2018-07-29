@@ -14,4 +14,4 @@ Other approaches : cultural dimensions
 
 Viet Nam in the culture map
 
-Discussion
+Discussion more
