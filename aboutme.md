@@ -4,7 +4,7 @@ title: About me
 subtitle: No Pain No Gain
 ---
 Hello there !!!
-My name is Hiep. I'm really into soccer,food and book.
+My name is Hiep. Come from Viet Nam but now living in Japan.
 
 What else do you need?
 
