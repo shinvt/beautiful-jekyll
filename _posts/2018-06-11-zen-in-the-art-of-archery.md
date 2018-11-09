@@ -25,4 +25,4 @@ Following the story of Eugen,a professor in philosophy came from Germany but was
 
 Here if we explain by a scientific and 'philosophical' way, it will be like this. When you pull the string the energy will be cumulated in the form of static energy. This energy would be stored as more as you maintain this position. Then, 'quantity' become 'quality', 'static energy' turn into 'dynamic energy' of the arrow. But when? The point is you have to forget the goal, do it purposeless, take a shot as naturally as the way you breath. So when you achieve that state, you would forget every thing, and the moment just come.
 
-In the end, I would say what I take from here is a simple version of 'How to be Zen' : **practicing** and **purposeless**. How about you ? Read it and give me your ideal.
+In the end, I would say what I take from here is a simple version of 'How to be Zen' : **practicing** and **purposeless**. How about you ?.
