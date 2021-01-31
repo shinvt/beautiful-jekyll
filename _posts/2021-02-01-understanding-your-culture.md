@@ -101,8 +101,8 @@ Flexible Time: Thời gian ở cực này thì flexible hơn. Có thể thay đ�
 ![scheduling](/img/scheduling.png)
 
 ### Take away
-- Ông bà ta có "Nhập gia tuỳ tục". Để "tuỳ tục" thì bạn phải biết tục. Bạn có thể tham khảo 8 trục trên.
+- Ông bà ta có câu "Nhập gia tuỳ tục". Để "tuỳ tục" thì bạn phải biết tục. Bạn có thể tham khảo, quan sát dựa trên 8 tiêu chí ở trên.
 - Việc hiểu được về khác biệt văn hoá có thể giúp bạn làm việc hiệu quả hơn trong một môi trường international. Tác giả đã đưa ra lời khuyên cho leader  của 1 global team là hãy bàn bạc thống nhất 1 cách làm việc chung nhất để giảm tải phần nào khác biệt về tâm lý văn hoá trước khi bắt đầu hợp tác làm.
-- Với việc global team ngày càng nhiều, hình thái  kinh doanh cũng thay đổi chóng  hợp tác làm việc (điển hình như việc work from home vì covid) thì những định kiến góc nhìn về văn hoá làm việc ở trên cũng sẽ thay. Cái duy nhất không thay đổi chính là thay đổi.
+- Với việc global team ngày càng nhiều, hình thái kinh doanh cũng thay đổi chóng  hợp tác làm việc (điển hình như việc work from home vì covid) thì những định kiến góc nhìn về văn hoá làm việc ở trên cũng sẽ thay. Cái duy nhất không thay đổi chính là thay đổi.
 
 Happy reading!!!
