@@ -28,7 +28,7 @@ Low Context: ám chỉ về văn hoá ngữ nghĩa nông (ở đây mình chọn
 High Context: ngược lại với nông sẽ là sâu. Những người trong nền văn hoá này thường có xu hướng truyền đạt thông tin một cách phức tạp, mơ hồ nhưng mang hàm nghĩa tinh tế đòi hỏi thông tin phải được nói hoặc đọc **between the line**. Đại diện cực này sẽ là các nước Đông Á (China, Japan,...). Do mình sinh sống và làm việc tại Japan nhiều năm nên có thể kiểm được văn hoá nói lòng vòng văn vẻ này của người Nhật.
 Còn đối với Việt Nam mình cũng  định vị Việt Nam ta thuộc nhóm High Context (tuy không lòng vòng bằng người Nhật hay thâm sâu như Trung Quốc nhưng mà cũng đại khái ở khúc này)  
 
-![communicating](/img/communicating.jpg)
+![communicating](/img/communicating.png)
 
 ### 2.Evaluating (Đánh giá)
 
@@ -38,7 +38,7 @@ Direct Negative Feedback: Bất ngờ là tuy Mĩ rất thẳng thắn trong vi�
 Indirect Negative Feedback:  Japan, Thailand và  Indonesia được tác giả xếp vào nhóm không trực tiếp đưa ra negative feedback. Cần phải hiểu "không trực tiếp" ở đây có thể mang nhiều hình thái như là không chê trách một người trước đám đông (nhưng  sau đó kéo ra một góc xử ), sử dụng positive feedback bọc ở ngoài negative feedback (kiểu vừa đấm vừa xoa).
 Mình thì mình chưa trải nghiệm văn hoá công sở ở Việt Nam nên cũng chưa có trải nghiệm về điều này. Nhưng theo quan sát khi làm việc ở các tổ chức sinh viên học sinh thì mình đoán Việt Nam ta có xu hướng nghiêng về bên Indirect Negative Feedback . Chả thế mà ông bà ta có câu "Dĩ hoà vi quý".  
 
-![evaluating](/img/evaluating.jpg)
+![evaluating](/img/evaluating.png)
 
 ### 3.Persuading (Thuyết phục)
 
@@ -48,7 +48,7 @@ Concept First: Ở cực này thì khi thuyết phục hay thuyết trình, ngư
 Application First: Ngược lại với việc chú trọng vào lý thuyết, các nước thuộc phía bên này có xu hướng suy nghĩ bàn luận dựa trên thực tế trước sau đó mới dùng concept để củng cố lập luận nếu cần thiết. Ở cực này tác giả đánh giá là có US, Canada,...
 Cái này thì lúc mình đoán Việt Nam mình thiên về bên mặt lý thuyết. aka "Nói có sách mách có chứng".
 
-![ersuading](/img/evaluating.jpg)
+![ersuading](/img/evaluating.png)
 
 ### 4.Leading (Lãnh đạo)
 
@@ -58,7 +58,7 @@ Egalitarian: Các công ty ở vùng này các boss sẽ gần gũi với nhân 
 Hierarchical: Ở vùng này thì tầng lớp lãnh đạo sẽ đứng ở vị thế cao hơn và cách biệt với nhân viên. Các cấp bậc sẽ được phân chia rõ ràng và nhân viên phải báo cáo với người quản lí trực thuộc phía trên của mình (việc nhảy cóc báo cáo được cho là không tôn đối với những người quản lí ở giữa).
 Với  Việt Nam hay ngay cả ở Nhật tiêu chí này sẽ khác nhau tuỳ vào cấp độ của công ty. Công ty càng to phân cấp càng rõ rệt. Vì thế mình xếp nước Đại Việt ở trung tâm.
 
-![leading](/img/leading.jpg)
+![leading](/img/leading.png)
 
 ### 5.Deciding (Quyết định)
 
@@ -68,7 +68,7 @@ Consensual: Tuy Japan là 1 trong những nước có nền văn hoá công ty H
 Top-Down: Cùng là cấu trúc phân cấp nhưng các nhà điều hành ở China lại có quyền quyết định cao hơn so với Japan.
 Tiêu chí này cũng như trên mình xếp nước Đại Việt ở trung tâm.
 
-![deciding](/img/deciding.jpg)
+![deciding](/img/deciding.png)
 
 ### 6.Trusting (Niềm tin)
 
@@ -79,7 +79,7 @@ Relationship-based: Nếu mọi người trong team kết nối với nhau hơn 
 ngoài công việc thì lòng tin sẽ được hình thành. Dù cho bạn có performance không tốt đi nữa thì với việc có niềm tin tưởng từ mọi người bạn vẫn sẽ được trao cho nhiều cơ hội.
 Tiêu chí này thì có vẻ Việt Nam sẽ nhếch về phía Relationship-based với dẫn chứng COCC.
 
-![trusting](/img/trusting.jpg)
+![trusting](/img/trusting.png)
 
 ### 7.Disagreeing (Phản đối)
 
@@ -89,7 +89,7 @@ Confrontational: Khi xảy ra mâu thuẫn, tranh cãi những người ở nhó
 Avoids Confrontation: Còn những người ở vùng này sẽ cố gắng tránh xung đột để tránh gây ảnh hưởng đến relationship của team. Ta có thể thấy trục này khá giống với Evaluating.
 Theo trục Evaluating, mình xếp Việt Nam ở vị trí cánh phải. Tuy nhiều khi nhân viên vs sếp vẫn chửi nhau. Và có cả trường hợp chửi xong được cho lên làm sếp :D.
 
-![disagreeing](/img/disagreeing.jpg)
+![disagreeing](/img/disagreeing.png)
 
 ### 8.Scheduling (Lịch trình)
 
@@ -98,7 +98,7 @@ Theo trục Evaluating, mình xếp Việt Nam ở vị trí cánh phải. Tuy n
 Linear Time: Thời gian là yếu tố quan trọng trong business. Phải giữ đúng giờ trong các cuộc hẹn, deadline trong các project.
 Flexible Time: Thời gian ở cực này thì flexible hơn. Có thể thay đổi task để phù hợp với các yếu tố ngoại cảnh không nhất thiết phải giữ thời gian lịch trình cố định. Các đặc điểm khác thì có thể mình định vị sai về vị trí của Việt Nam nhưng ở trục này thì Việt Nam chắc chắn theo kiểu co giãn được.
 
-![scheduling](/img/scheduling.jpg)
+![scheduling](/img/scheduling.png)
 
 ### Take away
 - Ông bà ta có "Nhập gia tuỳ tục". Để "tuỳ tục" thì bạn phải biết tục. Bạn có thể tham khảo 8 trục trên.
